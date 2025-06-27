@@ -1,2 +1,3 @@
-git init: "inicializa un repositorio en la compu"
-git commit: "sincroniza la información del repositorio local con el repositorio en la nube"
+git init : "Inicializa un repositorio en la PC"
+git commit : "Sincroniza la información del repositorio Local y en la Nube"
+
