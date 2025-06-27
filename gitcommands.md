@@ -59,7 +59,7 @@
 
 **git config --global user.email "tu@email"** : Configura tu email para los commits.
 
-# Trabajo con ramas
+## Trabajo con ramas
 
 **git branch** : Muestra las ramas existentes y en cuál estás.
 
