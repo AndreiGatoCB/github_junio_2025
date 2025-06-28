@@ -23,7 +23,8 @@ Aquí hago una pequeña muestra de los tipos de encabezados. Útil para diferenc
 ##### Título H5
 ###### Título H6
 ```
-El principal es **H1** para resaltar puntos más importantes, a partir de eso el tamaño de cada uno de los títulos disminuye en tamaño.
+El principal es **H1** para resaltar puntos más importantes, a partir de eso el tamaño de cada uno de los títulos
+disminuye en tamaño.
 ```
 - [Volver al inicio](#tabla-de-contenidos)
 ## Tipografías
